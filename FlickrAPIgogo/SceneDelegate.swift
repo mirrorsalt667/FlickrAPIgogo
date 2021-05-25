@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  FlickrAPIgogo
 //
-//  Created by 黃肇祺 on 2021/5/24.
+//  Created on 2021/5/24.
 //
 
 import UIKit
